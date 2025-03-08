@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/safeai-academy/static/css/main.f855e6bc.css",
+    "main.js": "/safeai-academy/static/js/main.21ea9ccd.js",
+    "static/js/453.05d96001.chunk.js": "/safeai-academy/static/js/453.05d96001.chunk.js",
+    "static/media/logo.svg": "/safeai-academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/safeai-academy/index.html",
+    "main.f855e6bc.css.map": "/safeai-academy/static/css/main.f855e6bc.css.map",
+    "main.21ea9ccd.js.map": "/safeai-academy/static/js/main.21ea9ccd.js.map",
+    "453.05d96001.chunk.js.map": "/safeai-academy/static/js/453.05d96001.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.21ea9ccd.js"
+  ]
+}
