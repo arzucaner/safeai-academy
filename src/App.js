@@ -9,11 +9,10 @@ import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/safeai-academy">
       <Navbar /> 
 
-      <Routes>
-      <Route index element={<Home />} />
+      <Routes>      
         <Route path="/" element={<Home />} />
         <Route path="/learn" element={<Learn />} />
         <Route path="/scenario" element={<Scenario />} />
