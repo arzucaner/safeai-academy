@@ -1,0 +1,73 @@
+.scenario {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .scenario h1 {
+    color: #8b0000;
+    font-size: 2.5rem;
+  }
+  
+  .scenario p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .choices {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .feedback {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    margin-top: 30px; 
+  }
+  
+  .next-btn {
+    background-color: #28a745;
+    padding: 10px 15px;
+    margin-right: 10px;
+  }
+  
+  .next-btn:hover {
+    background-color: #218838;
+  }
+  
+  .btn {
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
