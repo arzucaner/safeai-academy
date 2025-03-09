@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# SafeAI Academy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 **Hackathon Project: Women in AI Safety Hackathon**
 
-## Available Scripts
+## 🌟 Project Overview
 
-In the project directory, you can run:
+SafeAI Academy is an interactive learning platform designed to educate users about **AI Safety** through **scenarios and quizzes**. My goal is to raise awareness about AI risks, biases, and ethical decision-making.
 
-### `npm start`
+## 🎯 Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Interactive Learning:** Users explore AI safety topics through real-world scenarios.
+* **AI Safety Quiz:** Engage with a quiz to test knowledge on AI ethics and safety.
+* **User-Friendly Interface:** Clean and responsive UI for seamless experience.
+* **Fully Responsive Design:** Optimized for mobile and desktop.
+* **GitHub Pages Deployment:** Hosted live for public access.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔗 Live Demo
 
-### `npm test`
+[**🚀 View Project Here**]()
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+### **Frontend Technologies**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **React.js** → The core framework used for building a dynamic and efficient UI.
+* **React Router** → Enables smooth navigation between different pages without full-page reloads.
+* **JSON (Static Data)** → Used for storing quiz and scenario questions, making the app flexible and easily extendable.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Styling & UI**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* **CSS (Custom Styling)** → Used to ensure a consistent and visually appealing design.
+* **Flexbox & Grid** → Utilized for responsive layout adjustments.
 
-### `npm run eject`
+### **Deployment & Hosting**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* **GitHub Pages** → Easily hosts the project for free, making it accessible to anyone.
+* **npm & gh-pages** → Used for automating deployment in a single command.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **State Management & Logic**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* **useState & useEffect Hooks** → Manages dynamic quiz interactions and user progress.
+* **Score Calculation & Feedback System** → Tracks user responses and displays real-time feedback.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📸 Screenshots
 
-## Learn More
+### 🔹 Homepage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Homepage Screenshot](public/images/homepage.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🔹 Quiz Section
 
-### Code Splitting
+![Quiz Screenshot](public/images/quizpage.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📥 Installation & Setup
 
-### Analyzing the Bundle Size
+If you want to run the project locally, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/arzucaner/safeai-academy.git
+   ```
+2. **Navigate to the Project Folder:**
+   ```
+   cd safeai-academy
+   ```
+3. **Install Dependencies:**
+   ```
+   npm install
+   ```
+4. **Start the Development Server:**
+   ```
+   npm start
+   ```
+5. Open `<span>http://localhost:3000/</span>` in your browser.
 
-### Making a Progressive Web App
+## 🚀 Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To deploy this project on GitHub Pages:
 
-### Advanced Configuration
+```
+npm run deploy
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📜 License
 
-### Deployment
+This project is open-source and available under the **MIT License**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## ⭐ Contribute
 
-### `npm run build` fails to minify
+If you’d like to contribute to this project, feel free to **fork** the repository and submit a pull request! 😊
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+🚀 Built with ❤️ for the Women in AI Safety Hackathon 2025
