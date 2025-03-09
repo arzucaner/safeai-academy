@@ -16,7 +16,7 @@ SafeAI Academy is an interactive learning platform designed to educate users abo
 
 ## 🔗 Live Demo
 
-[**🚀 View Project Here**]()
+[**🚀 View Project Here**](https://youtu.be/NDNCZyaH9Uc)
 
 ## 🛠️ Tech Stack
 
