@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/safeai-academy/static/css/main.1e0446ed.css",
-    "main.js": "/safeai-academy/static/js/main.9e45d860.js",
+    "main.js": "/safeai-academy/static/js/main.fd0484e9.js",
     "static/js/453.05d96001.chunk.js": "/safeai-academy/static/js/453.05d96001.chunk.js",
     "static/media/ai-image.png": "/safeai-academy/static/media/ai-image.977410161e6e2cded28a.png",
     "index.html": "/safeai-academy/index.html",
     "main.1e0446ed.css.map": "/safeai-academy/static/css/main.1e0446ed.css.map",
-    "main.9e45d860.js.map": "/safeai-academy/static/js/main.9e45d860.js.map",
+    "main.fd0484e9.js.map": "/safeai-academy/static/js/main.fd0484e9.js.map",
     "453.05d96001.chunk.js.map": "/safeai-academy/static/js/453.05d96001.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e0446ed.css",
-    "static/js/main.9e45d860.js"
+    "static/js/main.fd0484e9.js"
   ]
 }
