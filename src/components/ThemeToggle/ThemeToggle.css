@@ -1,0 +1,48 @@
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+.toggle-track {
+  width: 60px;
+  height: 30px;
+  background-color: #e0e0e0;
+  border-radius: 15px;
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+.dark-mode .toggle-track {
+  background-color: #4a4a4a;
+}
+
+.toggle-thumb {
+  width: 26px;
+  height: 26px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  transition: transform 0.3s ease;
+}
+
+.toggle-thumb.dark {
+  transform: translateX(30px);
+}
+
+.toggle-thumb.light {
+  transform: translateX(0);
+} 
